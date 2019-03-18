@@ -104,6 +104,23 @@ ul, ol {
   opacity: 0.8;
 }
 
+.main-btn-coming-soon {
+  display: inline-block;
+  padding: 14px 50px;
+  background: #f15a22;
+  color: #FFF;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 2px;
+  -webkit-transition: 0.3s all;
+  transition: 0.3s all;
+}
+
+.main-btn-coming-soon:hover, .main-btn-coming-soon:focus {
+  color: #FFF;
+  opacity: 0.8;
+}
+
 .input {
   height: 40px;
   width: 100%;
