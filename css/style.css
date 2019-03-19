@@ -139,6 +139,9 @@ textarea.input {
 .input:focus {
   border-color: #dd0a37;
 }
+.about-content {
+    text-align: justify;
+}
 
 /*----------------------------*\
 	Section
