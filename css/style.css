@@ -810,8 +810,22 @@ textarea.input {
 }
 
 .sponsor>img {
+  width: 50%;
+}
+
+.sponsor-bogabante>img {
   width: 100%;
 }
+.sponsor-cigala>img {
+  width: 60%;
+}
+.sponsor-quisquilla>img {
+  width: 50%;
+}
+.sponsor-colaboradores>img {
+  width: 40%;
+}
+
 
 /*=========================================================
 	CONTACT
