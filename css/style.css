@@ -727,15 +727,15 @@ textarea.input {
   position: absolute;
   left: 0;
   top: 0;
-  width: 120px;
-  height: 120px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   background: #dd0a37;
   z-index: 10;
 }
 
 .event .event-hour {
-  position: absolute;
+  position: relative;
   left: 62px;
   top: 60px;
   width: 30px;
@@ -776,7 +776,7 @@ textarea.input {
 
 .event .event-content {
   padding-left: 160px;
-  min-height: 120px;
+  min-height: 0px;
 }
 
 .event .event-time {
