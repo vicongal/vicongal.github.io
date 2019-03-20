@@ -727,8 +727,8 @@ textarea.input {
   position: absolute;
   left: 0;
   top: 0;
-  width: 90px;
-  height: 90px;
+  width: 115px;
+  height: 115px;
   border-radius: 50%;
   background: #dd0a37;
   z-index: 10;
