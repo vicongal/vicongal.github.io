@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 22px;
 }
 
 h3 {
@@ -541,6 +541,7 @@ textarea.input {
 }
 
 .speaker .speaker-content>h2 {
+
   color: #FFF;
 }
 
