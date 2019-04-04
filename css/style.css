@@ -818,10 +818,10 @@ textarea.input {
 }
 
 .sponsor-bogabante>img {
-  width: 250%;
+  width: 300%;
 }
 .sponsor-centollo>img {
-  width: 150%;
+  width: 200%;
 }
 .sponsor-cigala>img {
   width: 100%;
@@ -855,7 +855,6 @@ textarea.input {
   height: 380px;
   margin-top: 60px;
 }
-
 /*=========================================================
 	CTA
 ===========================================================*/
